@@ -1,0 +1,3 @@
+Hello World!
+This is foo file!
+Do you like C language?
